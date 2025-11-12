@@ -1,0 +1,6 @@
+Flask==3.0.2
+flask-cors
+tensorflow==2.15.0
+numpy
+joblib
+gunicorn

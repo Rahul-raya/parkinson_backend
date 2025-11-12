@@ -1,6 +1,6 @@
 # parkinson_backend
 
-#To run the file:
+To start backend:
 
 1. python -m venv venv
 2. venv\Scripts\activate
